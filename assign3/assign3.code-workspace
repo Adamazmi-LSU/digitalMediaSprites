@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "assign3",
+			"path": "."
+		},
+		{
+			"name": "media",
+			"path": "../csc 2463/Assignment 3/media"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "assign3"
+	}
+}
