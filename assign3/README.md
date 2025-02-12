@@ -1,2 +1,0 @@
-# digitalMediaAssignment3
-# digitalMediaSprites
